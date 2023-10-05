@@ -18,4 +18,4 @@
   <a href="https://www.linkedin.com/in/richardandresantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richsanttos)](https://github.com/anuraghazra/github-readme-stats)
+[![RichSantosDev top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richsanttos&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
