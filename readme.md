@@ -1,5 +1,16 @@
-## Olá, eu sou Richard Santtos! Front-End Developer
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
+## Olá, eu sou Richard Santos! Front-End Developer
+## Sobre mim
 
+>👩🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+>
+>🎓 Estudando ADS na UniBF
+>
+>🌱 Aprendendo mais sobre: React, VueJS, Angular, NodeJS
+<hr>
+
+## 🚀 Minhas Habilidades
+</br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rich-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rich-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -10,7 +21,14 @@
   <img align="center" alt="Rich-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rich-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
+<br>
+### **Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+ <br/>
   ##
  
 <div> 
